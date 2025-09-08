@@ -1,0 +1,1 @@
+Random Forest is an ensemble of many decision trees. Each tree overfits in a different way (thanks to randomness), and averaging their predictions cancels out a lot of that overfitting—giving strong, stable performance with minimal tuning.
